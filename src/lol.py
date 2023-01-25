@@ -1,2 +1,3 @@
-print("Je ne suis pas un spaghetti")
-print("Fin de la discussion")
+
+print("je suis un spaghetti")
+print("plutot un linguini")
