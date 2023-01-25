@@ -2,6 +2,6 @@
 test
 ## sous 
 <p>
-  <b>all0</b> 
+  <i>all0</i> 
   Je m'apelle Félix-Antoine Lefebvre
 </p>
