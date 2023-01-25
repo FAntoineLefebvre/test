@@ -1,2 +1,2 @@
-print("allo")
-print("bonjour")
+print("Je suis un gnome")
+
